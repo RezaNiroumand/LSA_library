@@ -1,0 +1,1 @@
+exec(open('N:/pipeline/Tools/Maya/scripts/LSA_library/library_publish.py').read())
